@@ -15,6 +15,6 @@ allprojects {
 > Step 2. Add the dependenecy
 ```gradle
 dependencies {
-  implementation 'com.github.InfantAjith96:simple_app_library:Tag'
+  implementation 'com.github.InfantAjith96:simple_app_library:1.0.0'
 }
 ```
